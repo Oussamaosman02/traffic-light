@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Semáforo",
+  "short_name": "Semáforo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Semáforo."
+}

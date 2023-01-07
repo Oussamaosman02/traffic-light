@@ -1,0 +1,32 @@
+/**
+ * WHAT IS THIS FILE?
+ *
+ * Globally applied styles. No matter which components are in the page or matching route,
+ * the styles in here will be applied to the Document, without any sort of CSS scoping.
+ *
+ */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #fafafa;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    sans-serif;
+}
+
+h1,
+h2 {
+  margin: 0 0 5px 0;
+}
+
+.container {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
