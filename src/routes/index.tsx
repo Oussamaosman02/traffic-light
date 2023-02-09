@@ -34,7 +34,7 @@ export default component$(() => {
   return (
     <div style={{ backgroundColor: state.green ? 'green' : 'red' }} class="container">
       <h1>
-        Son las: {state.hour}:{state.min}:{state.secs}
+        Son las: {state.hour}:{state.min < 10 ? `0${state.min}` : state.min}:{state.secs < 10 ? `0${state.secs}` : state.secs}
       </h1>
       <h2>
         Faltan:
