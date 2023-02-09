@@ -1,866 +1,794 @@
 [
   {
-    "code": "green",
+    "code": "red",
     "timeStart": {
       "minutes": 0,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 1,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 1,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 1,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 1,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 2,
-      "seconds": 23
+      "minutes": 3,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 2,
-      "seconds": 23
+      "minutes": 3,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 2,
-      "seconds": 50
+      "minutes": 3,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 2,
-      "seconds": 50
+      "minutes": 3,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 4,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 4,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 4,
-      "seconds": 30
-    },
-    "totalSecs": 27
-  },
-  {
-    "code": "red",
-    "timeStart": {
-      "minutes": 4,
-      "seconds": 30
+      "seconds": 45
     },
     "timeEnd": {
       "minutes": 5,
-      "seconds": 43
+      "seconds": 15
     },
-    "totalSecs": 73
+    "totalSecs": 30
   },
   {
-    "code": "green",
+    "code": "red",
     "timeStart": {
       "minutes": 5,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 6,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 6,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 6,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 6,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 7,
-      "seconds": 23
+      "minutes": 8,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 7,
-      "seconds": 23
+      "minutes": 8,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 7,
-      "seconds": 50
+      "minutes": 8,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 7,
-      "seconds": 50
+      "minutes": 8,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 9,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 9,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 9,
-      "seconds": 30
-    },
-    "totalSecs": 27
+    "totalSecs": 70
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 9,
-      "seconds": 30
-    },
-    "timeEnd": {
       "minutes": 10,
-      "seconds": 43
-    },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 10,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 11,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 11,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 11,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 11,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 12,
-      "seconds": 23
+      "minutes": 13,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 12,
-      "seconds": 23
+      "minutes": 13,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 12,
-      "seconds": 50
+      "minutes": 13,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 12,
-      "seconds": 50
+      "minutes": 13,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 14,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 14,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 14,
-      "seconds": 30
-    },
-    "totalSecs": 27
-  },
-  {
-    "code": "red",
-    "timeStart": {
-      "minutes": 14,
-      "seconds": 30
+      "seconds": 45
     },
     "timeEnd": {
       "minutes": 15,
-      "seconds": 43
+      "seconds": 15
     },
-    "totalSecs": 73
+    "totalSecs": 30
   },
   {
-    "code": "green",
+    "code": "red",
     "timeStart": {
       "minutes": 15,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 16,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 16,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 16,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 16,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 17,
-      "seconds": 23
+      "minutes": 18,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 17,
-      "seconds": 23
+      "minutes": 18,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 17,
-      "seconds": 50
+      "minutes": 18,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 17,
-      "seconds": 50
+      "minutes": 18,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 19,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 19,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 19,
-      "seconds": 30
-    },
-    "totalSecs": 27
+    "totalSecs": 70
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 19,
-      "seconds": 30
-    },
-    "timeEnd": {
       "minutes": 20,
-      "seconds": 43
-    },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 20,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 21,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 21,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 21,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 21,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 22,
-      "seconds": 23
+      "minutes": 23,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 22,
-      "seconds": 23
+      "minutes": 23,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 22,
-      "seconds": 50
+      "minutes": 23,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 22,
-      "seconds": 50
+      "minutes": 23,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 24,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 24,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 24,
-      "seconds": 30
-    },
-    "totalSecs": 27
-  },
-  {
-    "code": "red",
-    "timeStart": {
-      "minutes": 24,
-      "seconds": 30
+      "seconds": 45
     },
     "timeEnd": {
       "minutes": 25,
-      "seconds": 43
+      "seconds": 15
     },
-    "totalSecs": 73
+    "totalSecs": 30
   },
   {
-    "code": "green",
+    "code": "red",
     "timeStart": {
       "minutes": 25,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 26,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 26,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 26,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 26,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 27,
-      "seconds": 23
+      "minutes": 28,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 27,
-      "seconds": 23
+      "minutes": 28,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 27,
-      "seconds": 50
+      "minutes": 28,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 27,
-      "seconds": 50
+      "minutes": 28,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 29,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 29,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 29,
-      "seconds": 30
-    },
-    "totalSecs": 27
+    "totalSecs": 70
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 29,
-      "seconds": 30
-    },
-    "timeEnd": {
       "minutes": 30,
-      "seconds": 43
-    },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 30,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 31,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 31,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 31,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 31,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 32,
-      "seconds": 23
+      "minutes": 33,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 32,
-      "seconds": 23
+      "minutes": 33,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 32,
-      "seconds": 50
+      "minutes": 33,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 32,
-      "seconds": 50
+      "minutes": 33,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 34,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 34,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 34,
-      "seconds": 30
-    },
-    "totalSecs": 27
-  },
-  {
-    "code": "red",
-    "timeStart": {
-      "minutes": 34,
-      "seconds": 30
+      "seconds": 45
     },
     "timeEnd": {
       "minutes": 35,
-      "seconds": 43
+      "seconds": 15
     },
-    "totalSecs": 73
+    "totalSecs": 30
   },
   {
-    "code": "green",
+    "code": "red",
     "timeStart": {
       "minutes": 35,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 36,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 36,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 36,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 36,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 37,
-      "seconds": 23
+      "minutes": 38,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 37,
-      "seconds": 23
+      "minutes": 38,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 37,
-      "seconds": 50
+      "minutes": 38,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 37,
-      "seconds": 50
+      "minutes": 38,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 39,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 39,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 39,
-      "seconds": 30
-    },
-    "totalSecs": 27
+    "totalSecs": 70
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 39,
-      "seconds": 30
-    },
-    "timeEnd": {
       "minutes": 40,
-      "seconds": 43
-    },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 40,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 41,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 41,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 41,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 41,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 42,
-      "seconds": 23
+      "minutes": 43,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 42,
-      "seconds": 23
+      "minutes": 43,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 42,
-      "seconds": 50
+      "minutes": 43,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 42,
-      "seconds": 50
+      "minutes": 43,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 44,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 44,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 44,
-      "seconds": 30
-    },
-    "totalSecs": 27
-  },
-  {
-    "code": "red",
-    "timeStart": {
-      "minutes": 44,
-      "seconds": 30
+      "seconds": 45
     },
     "timeEnd": {
       "minutes": 45,
-      "seconds": 43
+      "seconds": 15
     },
-    "totalSecs": 73
+    "totalSecs": 30
   },
   {
-    "code": "green",
+    "code": "red",
     "timeStart": {
       "minutes": 45,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 46,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 46,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 46,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 46,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 47,
-      "seconds": 23
+      "minutes": 48,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 47,
-      "seconds": 23
+      "minutes": 48,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 47,
-      "seconds": 50
+      "minutes": 48,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 47,
-      "seconds": 50
+      "minutes": 48,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 49,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 49,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 49,
-      "seconds": 30
-    },
-    "totalSecs": 27
+    "totalSecs": 70
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 49,
-      "seconds": 30
-    },
-    "timeEnd": {
       "minutes": 50,
-      "seconds": 43
-    },
-    "totalSecs": 73
-  },
-  {
-    "code": "green",
-    "timeStart": {
-      "minutes": 50,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 51,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
+    "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 51,
+      "seconds": 25
+    },
+    "timeEnd": {
+      "minutes": 51,
+      "seconds": 55
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
       "minutes": 51,
-      "seconds": 10
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 52,
-      "seconds": 23
+      "minutes": 53,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 52,
-      "seconds": 23
+      "minutes": 53,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 52,
-      "seconds": 50
+      "minutes": 53,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 52,
-      "seconds": 50
+      "minutes": 53,
+      "seconds": 35
     },
     "timeEnd": {
       "minutes": 54,
-      "seconds": 3
+      "seconds": 45
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 54,
-      "seconds": 3
-    },
-    "timeEnd": {
-      "minutes": 54,
-      "seconds": 30
-    },
-    "totalSecs": 27
-  },
-  {
-    "code": "red",
-    "timeStart": {
-      "minutes": 54,
-      "seconds": 30
+      "seconds": 45
     },
     "timeEnd": {
       "minutes": 55,
-      "seconds": 43
+      "seconds": 15
     },
-    "totalSecs": 73
+    "totalSecs": 30
   },
   {
-    "code": "green",
+    "code": "red",
     "timeStart": {
       "minutes": 55,
-      "seconds": 43
+      "seconds": 15
     },
     "timeEnd": {
       "minutes": 56,
-      "seconds": 10
+      "seconds": 25
     },
-    "totalSecs": 27
-  },
-  {
-    "code": "red",
-    "timeStart": {
-      "minutes": 56,
-      "seconds": 10
-    },
-    "timeEnd": {
-      "minutes": 57,
-      "seconds": 23
-    },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 57,
-      "seconds": 23
+      "minutes": 56,
+      "seconds": 25
     },
     "timeEnd": {
-      "minutes": 57,
-      "seconds": 50
+      "minutes": 56,
+      "seconds": 55
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 57,
-      "seconds": 50
+      "minutes": 56,
+      "seconds": 55
     },
     "timeEnd": {
-      "minutes": 59,
-      "seconds": 3
+      "minutes": 58,
+      "seconds": 5
     },
-    "totalSecs": 73
+    "totalSecs": 70
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 59,
-      "seconds": 3
+      "minutes": 58,
+      "seconds": 5
     },
     "timeEnd": {
-      "minutes": 59,
-      "seconds": 30
+      "minutes": 58,
+      "seconds": 35
     },
-    "totalSecs": 27
+    "totalSecs": 30
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 59,
-      "seconds": 30
+      "minutes": 58,
+      "seconds": 35
     },
     "timeEnd": {
-      "minutes": 60,
-      "seconds": 43
+      "minutes": 59,
+      "seconds": 45
     },
-    "totalSecs": 73
+    "totalSecs": 70
   }
 ]

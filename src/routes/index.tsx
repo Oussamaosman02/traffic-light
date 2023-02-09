@@ -8,7 +8,7 @@ export default component$(() => {
     min: new Date().getMinutes(),
     hour: new Date().getHours(),
     green: false,
-    falta: 73,
+    falta: 70,
   });
   useClientEffect$(() => {
     const interval = setInterval(() => {
