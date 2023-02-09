@@ -132,6 +132,18 @@
     "totalSecs": 70
   },
   {
+    "code": "green",
+    "timeStart": {
+      "minutes": 9,
+      "seconds": 45
+    },
+    "timeEnd": {
+      "minutes": 10,
+      "seconds": 15
+    },
+    "totalSecs": 30
+  },
+  {
     "code": "red",
     "timeStart": {
       "minutes": 10,
@@ -262,6 +274,18 @@
       "seconds": 45
     },
     "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 19,
+      "seconds": 45
+    },
+    "timeEnd": {
+      "minutes": 20,
+      "seconds": 15
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
@@ -396,6 +420,18 @@
     "totalSecs": 70
   },
   {
+    "code": "green",
+    "timeStart": {
+      "minutes": 29,
+      "seconds": 45
+    },
+    "timeEnd": {
+      "minutes": 30,
+      "seconds": 15
+    },
+    "totalSecs": 30
+  },
+  {
     "code": "red",
     "timeStart": {
       "minutes": 30,
@@ -526,6 +562,18 @@
       "seconds": 45
     },
     "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 39,
+      "seconds": 45
+    },
+    "timeEnd": {
+      "minutes": 40,
+      "seconds": 15
+    },
+    "totalSecs": 30
   },
   {
     "code": "red",
@@ -660,6 +708,18 @@
     "totalSecs": 70
   },
   {
+    "code": "green",
+    "timeStart": {
+      "minutes": 49,
+      "seconds": 45
+    },
+    "timeEnd": {
+      "minutes": 50,
+      "seconds": 15
+    },
+    "totalSecs": 30
+  },
+  {
     "code": "red",
     "timeStart": {
       "minutes": 50,
@@ -790,5 +850,17 @@
       "seconds": 45
     },
     "totalSecs": 70
+  },
+  {
+    "code": "green",
+    "timeStart": {
+      "minutes": 59,
+      "seconds": 45
+    },
+    "timeEnd": {
+      "minutes": 0,
+      "seconds": 15
+    },
+    "totalSecs": 30
   }
 ]
