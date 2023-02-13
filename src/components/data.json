@@ -7,21 +7,21 @@
     },
     "timeEnd": {
       "minutes": 1,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 1,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 1,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -31,21 +31,21 @@
     },
     "timeEnd": {
       "minutes": 3,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 3,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 3,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -55,21 +55,21 @@
     },
     "timeEnd": {
       "minutes": 4,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 4,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 5,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -79,21 +79,21 @@
     },
     "timeEnd": {
       "minutes": 6,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 6,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 6,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -103,21 +103,21 @@
     },
     "timeEnd": {
       "minutes": 8,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 8,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 8,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -127,21 +127,21 @@
     },
     "timeEnd": {
       "minutes": 9,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 9,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 10,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -151,21 +151,21 @@
     },
     "timeEnd": {
       "minutes": 11,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 11,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 11,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -175,21 +175,21 @@
     },
     "timeEnd": {
       "minutes": 13,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 13,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 13,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -199,21 +199,21 @@
     },
     "timeEnd": {
       "minutes": 14,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 14,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 15,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -223,21 +223,21 @@
     },
     "timeEnd": {
       "minutes": 16,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 16,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 16,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -247,21 +247,21 @@
     },
     "timeEnd": {
       "minutes": 18,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 18,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 18,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -271,21 +271,21 @@
     },
     "timeEnd": {
       "minutes": 19,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 19,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 20,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -295,21 +295,21 @@
     },
     "timeEnd": {
       "minutes": 21,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 21,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 21,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -319,21 +319,21 @@
     },
     "timeEnd": {
       "minutes": 23,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 23,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 23,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -343,21 +343,21 @@
     },
     "timeEnd": {
       "minutes": 24,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 24,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 25,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -367,21 +367,21 @@
     },
     "timeEnd": {
       "minutes": 26,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 26,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 26,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -390,46 +390,46 @@
       "seconds": 58
     },
     "timeEnd": {
-      "minutes": 31,
-      "seconds": 11
+      "minutes": 33,
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 31,
-      "seconds": 11
+      "minutes": 33,
+      "seconds": 13
     },
     "timeEnd": {
-      "minutes": 31,
+      "minutes": 33,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 31,
+      "minutes": 33,
       "seconds": 38
     },
     "timeEnd": {
       "minutes": 29,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 29,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 30,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -438,46 +438,46 @@
       "seconds": 18
     },
     "timeEnd": {
-      "minutes": 31,
-      "seconds": 31
+      "minutes": 33,
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
-      "minutes": 31,
-      "seconds": 31
+      "minutes": 33,
+      "seconds": 33
     },
     "timeEnd": {
-      "minutes": 31,
+      "minutes": 33,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
     "timeStart": {
-      "minutes": 31,
+      "minutes": 33,
       "seconds": 58
     },
     "timeEnd": {
       "minutes": 33,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 33,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 33,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -487,21 +487,21 @@
     },
     "timeEnd": {
       "minutes": 34,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 34,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 35,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -511,21 +511,21 @@
     },
     "timeEnd": {
       "minutes": 36,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 36,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 36,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -535,21 +535,21 @@
     },
     "timeEnd": {
       "minutes": 38,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 38,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 38,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -559,21 +559,21 @@
     },
     "timeEnd": {
       "minutes": 39,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 39,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 40,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -583,21 +583,21 @@
     },
     "timeEnd": {
       "minutes": 41,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 41,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 41,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -607,21 +607,21 @@
     },
     "timeEnd": {
       "minutes": 43,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 43,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 43,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -631,21 +631,21 @@
     },
     "timeEnd": {
       "minutes": 44,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 44,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 45,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -655,21 +655,21 @@
     },
     "timeEnd": {
       "minutes": 46,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 46,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 46,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -679,21 +679,21 @@
     },
     "timeEnd": {
       "minutes": 48,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 48,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 48,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -703,21 +703,21 @@
     },
     "timeEnd": {
       "minutes": 49,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 49,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 50,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -727,21 +727,21 @@
     },
     "timeEnd": {
       "minutes": 51,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 51,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 51,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -751,21 +751,21 @@
     },
     "timeEnd": {
       "minutes": 53,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 53,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 53,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -775,21 +775,21 @@
     },
     "timeEnd": {
       "minutes": 54,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 54,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 55,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -799,21 +799,21 @@
     },
     "timeEnd": {
       "minutes": 56,
-      "seconds": 31
+      "seconds": 33
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 56,
-      "seconds": 31
+      "seconds": 33
     },
     "timeEnd": {
       "minutes": 56,
       "seconds": 58
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -823,21 +823,21 @@
     },
     "timeEnd": {
       "minutes": 58,
-      "seconds": 11
+      "seconds": 13
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 58,
-      "seconds": 11
+      "seconds": 13
     },
     "timeEnd": {
       "minutes": 58,
       "seconds": 38
     },
-    "totalSecs": 27
+    "totalSecs": 25
   },
   {
     "code": "red",
@@ -847,20 +847,20 @@
     },
     "timeEnd": {
       "minutes": 59,
-      "seconds": 51
+      "seconds": 53
     },
-    "totalSecs": 73
+    "totalSecs": 75
   },
   {
     "code": "green",
     "timeStart": {
       "minutes": 59,
-      "seconds": 51
+      "seconds": 53
     },
     "timeEnd": {
       "minutes": 60,
       "seconds": 18
     },
-    "totalSecs": 27
+    "totalSecs": 25
   }
 ]
